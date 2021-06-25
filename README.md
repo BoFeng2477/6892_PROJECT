@@ -26,7 +26,7 @@ Ubuntu-20.04.2.0 [2]
 
 Please install the versions of needed libraries as indicated above. 
 
-There's a lot of compatiability issues when working with Mujoco Enviroment, the version combo listed here is acquired after a lot of failed trials, it works on our MacOS and Linux syste, and most likely it'll work on yours, too.
+There's a lot of compatiability issues when working with Mujoco Enviroment, the version combo listed here is acquired after a lot of failed trials, it works on our MacOS and Linux system, and most likely it'll work on yours, too.
 
 **Please NOTE** that if you have a GCC version higher than 8.0, you have to downgrade it to either 7.0 or 8.0.
 
